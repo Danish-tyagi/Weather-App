@@ -56,7 +56,7 @@ HTML5 & CSS3
 Follow these steps to run the project locally:
 
 # Clone the repository
-git clone https://github.com/Danish-tyagi/
+https://github.com/Danish-tyagi/Weather-App.git
 # Navigate to project folder
 cd weather-app
 

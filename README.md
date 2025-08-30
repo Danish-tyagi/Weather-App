@@ -38,8 +38,7 @@ HTML5 & CSS3
 
 🚀 Live Demo
 
-🔗 Click here to try the app (Add your Netlify/Vercel link here)
-
+https://weathera-appp.netlify.app/
 
 ---
 
